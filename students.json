@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.j@example.com",
+    "grades": {
+      "math": 90,
+      "science": 85,
+      "english": 88
+    },
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "grades": {
+      "math": 78,
+      "science": 92,
+      "english": 80
+    },
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "id": 3,
+    "name": "Carol Davis",
+    "email": "carol.d@example.com",
+    "grades": {
+      "math": 95,
+      "science": 87,
+      "english": 92
+    },
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "email": "david.w@example.com",
+    "grades": {
+      "math": 82,
+      "science": 90,
+      "english": 85
+    },
+    "encrypted": true,
+    "data": "Z0FBQUFBQm83XzBMWm95RTdwQl9UMGZKSElCUzlxTTIwbWw5aGFVS0tzM0J4alBZYm5LTHRvMktpajhIN0gwVWMwdkliVUZELU1FYmZKQU9oMDdWLUlhRHg0dVJnXzEwalFmTkYwb2xVSlkyVEg0SGE4RjNfNFpfeUlUeHNTRTZwUHh0NnRyNFNtSDNoNjJYUjhXLXFzUGhOS2lPMUJLZnV5Y1pmQWRndlpBd1paMjJtcy1mUXd6NkRfMGhIRmZ6U01jcDJMc3dKMTBERzVvM2Z6eEZSN2xkVlZDYUNvMVAxV2pMZnpfMUZTZ2k4LUVLUUJxVmhzaz0="
+  },
+  {
+    "id": 5,
+    "name": "Eva Martinez",
+    "email": "eva.m@example.com",
+    "grades": {
+      "math": 88,
+      "science": 79,
+      "english": 94
+    },
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "id": 6,
+    "name": "Frank Brown",
+    "email": "frank.b@example.com",
+    "grades": {
+      "math": 76,
+      "science": 93,
+      "english": 81
+    },
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "email": "grace.l@example.com",
+    "grades": {
+      "math": 91,
+      "science": 84,
+      "english": 89
+    },
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "id": 8,
+    "name": "Henry Garcia",
+    "email": "henry.g@example.com",
+    "grades": {
+      "math": 85,
+      "science": 88,
+      "english": 83
+    },
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "id": 9,
+    "name": "Ivy Rodriguez",
+    "email": "ivy.r@example.com",
+    "grades": {
+      "math": 93,
+      "science": 86,
+      "english": 90
+    },
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "id": 10,
+    "name": "Jack Taylor",
+    "email": "jack.t@example.com",
+    "grades": {
+      "math": 80,
+      "science": 91,
+      "english": 87
+    },
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "name": "Anant",
+    "email": "anantyash902@gmail.com",
+    "grades": {
+      "math": 100,
+      "science": 99,
+      "english": 98
+    },
+    "auto_encrypt": false,
+    "id": 11,
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "name": "Anant",
+    "email": "anantyash902@gmail.com",
+    "grades": {
+      "math": 100,
+      "science": 99,
+      "english": 98
+    },
+    "auto_encrypt": false,
+    "id": 12,
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "name": "navnee",
+    "email": "a@1",
+    "grades": {
+      "math": 75,
+      "science": 5,
+      "english": 78
+    },
+    "auto_encrypt": false,
+    "id": 13,
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "name": "navnee",
+    "email": "a@1",
+    "grades": {
+      "math": 75,
+      "science": 5,
+      "english": 78
+    },
+    "auto_encrypt": false,
+    "id": 14,
+    "encrypted": false,
+    "data": null
+  },
+  {
+    "name": "uh",
+    "email": "an@gmail.com",
+    "grades": {
+      "math": 5,
+      "science": 6,
+      "english": 5
+    },
+    "auto_encrypt": false,
+    "id": 15,
+    "encrypted": true,
+    "data": "Z0FBQUFBQm84QUNqLTd4RVI0ZUE1ZWNqZU1JX1NDdndaaXlGUk1Zdm9CdWh2b3pVcThOVXdNVTREd2Z0X1VsWjlpcUlpWjhfWGNDRzNBNkxNZk9mRTl5ZDgwaGxJTkpab05iN0xDd3JPZ3dfd1JqN1JvRktoTTJDX21nbGVJUTh3MnJVMnVoSkYyS0QtalNoeDk3amR5LWJXdVhTSHVDWmVGaTdodldwLUdzU2dRWXkxYWhrYWxjaXNrRkQtTDQzSGZZUlpQOUdHaDkzR0RhLXU1Yy1WNVhOOGZackNEX21fQzJ3WjcySTFyLWh1NmNjUWllenYzMD0="
+  },
+  {
+    "name": "anant",
+    "email": "anantyash902@gmail.com",
+    "grades": {
+      "math": 89,
+      "science": 88,
+      "english": 98
+    },
+    "auto_encrypt": true,
+    "id": 16,
+    "encrypted": true,
+    "data": "Z0FBQUFBQnBDTUxuNjh3QXo0ODdrc3RYdl9kVzI0ZlIxQ2E0NTIwMmRlZ2RwRFZZN01LcXFFRlptOHBxanpmQ1JlQUNMaHE3aUVRZzYzNDdQemVsZ2Q0YjBuNE5OZlpvWDdmYUlBZ0NzRUoySVhidmc1SW1VVGVSdjRxZXNVT1RfZnVYZWhBZFZHSFpQSHNRbm9lazRMY0Q4OTlwSlhQdnlEa0p3ZDVVdXIxVXpUSkFobUw2QXd0VVhhNFctSm9RNTRsSklsTjRhblRXVTVubDFDWTdBZVZuc1c5dExQYVJreFNvWUdlc3RIMElYRURCRlhPUnp5cz0="
+  }
+]
